@@ -6,6 +6,7 @@ class Groceries {
         List<string> items = new List<string>() {
             "Milk",
             "Eggs",
+            items.Add("Juice");
             "Bread",
             "Butter",
             "Rice"
